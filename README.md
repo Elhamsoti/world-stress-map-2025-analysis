@@ -125,12 +125,14 @@ These findings describe the selected observation sample. The north–south compa
 
 | File | Description |
 |---|---|
+| `figures/` | Selected maps and scientific visualizations |
+| `.gitignore` | Excludes temporary files and locally downloaded datasets |
 | `01_WSM_Data_Exploration.ipynb` | Database structure, attributes, quality classes, and exploratory statistics |
 | `02_WSM_Data_Validation.ipynb` | Coordinate checks, azimuth validation, and data filtering |
 | `03_WSM_Spatial_Analysis.ipynb` | Global and regional mapping, SHmax orientation symbols, and repeated-location investigation |
 | `04_WSM_Stress_Patterns.ipynb` | Stress regimes, axial orientation statistics, regional comparison, and sensitivity analysis |
+| `README.md` | Project overview, methodology, results, and reproducibility |
 | `requirements.txt` | Python dependencies |
-| `figures/` | Selected visualizations |
 
 ## Technologies and Skills
 
