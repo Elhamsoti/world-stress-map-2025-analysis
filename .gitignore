@@ -1,0 +1,21 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Operating system files
+.DS_Store
+
+# Original datasets (download separately)
+WSM_Database_2025.csv
+natural_earth/
+
+# Jupyter temporary files
+*.nbconvert.ipynb
