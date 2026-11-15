@@ -86,6 +86,24 @@ An exploratory comparison retains one record per exact coordinate pair to assess
 
 This is a sensitivity check rather than a definitive method for removing duplicate measurements.
 
+## Selected Visualizations
+
+### Global Distribution of Stress Observations
+
+![Global WSM observations](figures/global_wsm_observations.png)
+
+### SHmax Orientations in Germany and Surrounding Regions
+
+![Regional SHmax orientations](figures/regional_shmax_orientations.png)
+
+### Spatial Distribution of Stress Regimes
+
+![Regional stress regimes](figures/regional_stress_regimes.png)
+
+### Distribution of SHmax Azimuths
+
+![SHmax azimuth histogram](figures/shmax_azimuth_histogram.png)
+
 ## Key Results
 
 ### Observation Characteristics
